@@ -72,7 +72,6 @@ python gesture_display.py
 
 ---
 
-## 📸 Screenshots
 
 ---
 
