@@ -14,6 +14,13 @@ This project uses **Python**, **OpenCV**, and **MediaPipe** to detect hand gestu
 - Shows live **finger labels** on screen for debugging
 
 ---
+## 📸 Project Preview
+
+<p align="center">
+  <img src="https://github.com/Mohammed-Shehsin/Hand-gesture-recognition--/blob/main/img/WhatsApp%20Image%202025-07-11%20at%2019.49.53_a0f286c6.jpg?raw=true" alt="Hand Gesture to LED Matrix" width="300"/>
+</p>
+
+---
 
 ## 🛠 Technologies Used
 - **Python 3**
